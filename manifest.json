@@ -1,0 +1,221 @@
+{
+  "minecraft": "1.21.1",
+  "server": "H3LO8.aternos.me:44982",
+  "mods": [
+    {
+      "name": "aero_cam_sync-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/aero_cam_sync-1.4.0.jar",
+      "sha256": "335ecaf8cefa4792815a81ac7257e5d432ee1c30704187fc548f1d1db855f4e2"
+    },
+    {
+      "name": "aetherial-islands-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/aetherial-islands-2.0.2.jar",
+      "sha256": "6c1bc752b632f233b28cfd5137da2e6fb1d56fb308c8f760bc321b37038bc26f"
+    },
+    {
+      "name": "alexsmobs-2.2.2-neoforge+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/alexsmobs-2.2.2-neoforge+1.21.1.jar",
+      "sha256": "240a96f8b098892e5374bdfedaced89f5fb8f7c9b79527534d397c5b7b1673d5"
+    },
+    {
+      "name": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha256": "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
+    },
+    {
+      "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "sha256": "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1"
+    },
+    {
+      "name": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "name": "codxlib-1.6.1-neoforge+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/codxlib-1.6.1-neoforge+1.21.1.jar",
+      "sha256": "15d9052888ad8b0db4719eb1aa4a409b892a4f9314e68169ad1848bbe1e1db52"
+    },
+    {
+      "name": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "sha256": "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
+    },
+    {
+      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
+    },
+    {
+      "name": "craftedcore-5.8.2.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/craftedcore-5.8.2.jar",
+      "sha256": "6bbfe3c0a7c286ca2c34388e3b749d93924a68dd1e89f15c1da47695245f41ed"
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+    },
+    {
+      "name": "create_sophback_compat-1.0.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/create_sophback_compat-1.0.jar",
+      "sha256": "5eee67aff06d3355cbd06b6190551e109884a43465da3671f9d2735a07eba3c3"
+    },
+    {
+      "name": "entity_model_features-3.3.11-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/entity_model_features-3.3.11-1.21-neoforge.jar",
+      "sha256": "8337d6b71c8e026efef852a5905f46631cbeb2620ae16fd200264a9230932296"
+    },
+    {
+      "name": "entity_texture_features-7.2.5-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/entity_texture_features-7.2.5-1.21-neoforge.jar",
+      "sha256": "2276e6c23e4ebb0c26aac68e5c7b547bc31bdaff0ee60beb9b5060de878fe91c"
+    },
+    {
+      "name": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "sha256": "3983b981da4a0583c7e58184a8631a23e56cc3b81f4cb53491ca600382879b82"
+    },
+    {
+      "name": "FallingTree-1.21.1-1.21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/FallingTree-1.21.1-1.21.1.11.jar",
+      "sha256": "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
+    },
+    {
+      "name": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha256": "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
+    },
+    {
+      "name": "guardvillagers-2.4.12-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/guardvillagers-2.4.12-1.21.1.jar",
+      "sha256": "aab03d59216bd931a05434b2527e0d5b7641793bd0178a9958100579c4f11407"
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.57.0.451.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/jei-1.21.1-neoforge-19.57.0.451.jar",
+      "sha256": "44fcda225b26d14502bb1890512f4356db0a2577a6c63757b92948a6b951180a"
+    },
+    {
+      "name": "just-hammers-neoforge-21.1.4.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/just-hammers-neoforge-21.1.4.jar",
+      "sha256": "59487c8758fd762fcddc58e3b5e8a956de3f6a2115cd1c6f9a915939f5f985d8"
+    },
+    {
+      "name": "justzoom_neoforge_3.0.1_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/justzoom_neoforge_3.0.1_MC_1.21.1.jar",
+      "sha256": "88909d058e0eeb46749097275dbbf234efb9066d229a69665cd04715648219d7"
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+    },
+    {
+      "name": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb"
+    },
+    {
+      "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.2.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.2.jar",
+      "sha256": "f7ce14e8ba1eafad798aeeebea7b5ed1193ed96fc01bdd3eedbe9b2e796b8035"
+    },
+    {
+      "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.4.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.4.jar",
+      "sha256": "61c09e7df22f2872f3bcc7ad6fc96d46d920b2220612a1480ef8582524a97254"
+    },
+    {
+      "name": "punchy-2.8e-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/punchy-2.8e-neoforge-1.21.1.jar",
+      "sha256": "43f5465aa55d604becdb82e98d8bc8ec5346e7bf104b0bcee8b1032fb048857e"
+    },
+    {
+      "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.6.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
+    },
+    {
+      "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/sophisticatedbackpacks-1.21.1-3.26.7.2182.jar",
+      "sha256": "202ccb96bc7afbb55030c1e04a05555c42ec9a72e61f24f98222772251c2261a"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.5.5.2363.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/sophisticatedcore-1.21.1-1.5.5.2363.jar",
+      "sha256": "a24fa6b250d6ea576016afaecdea5481fdf77159a7d94a0ce3f35be16e0d3520"
+    },
+    {
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha256": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
+    },
+    {
+      "name": "the_bumblezone-7.16.1+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/the_bumblezone-7.16.1+1.21.1-neoforge.jar",
+      "sha256": "6ee54e212726212b8a9f5dce6536e5b36ce8408c05a048f7eeb7ec00bab939be"
+    },
+    {
+      "name": "upgraded-iron-chests-1.5.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/upgraded-iron-chests-1.5.jar",
+      "sha256": "5b0616911dc81114dbc9074413bf0e88f1e752ce2b4d8a7164589596297cfc7f"
+    },
+    {
+      "name": "veil-neoforge-1.21.1-4.5.1.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/veil-neoforge-1.21.1-4.5.1.jar",
+      "sha256": "e9dfabab7d1ea42fd5f053be444349b7961b6b526957cfa6ea4b4b26372e24b9"
+    },
+    {
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha256": "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
+    },
+    {
+      "name": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e"
+    },
+    {
+      "name": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "url": "https://raw.githubusercontent.com/h3lo8/mis-mods/main/mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7"
+    }
+  ]
+}
